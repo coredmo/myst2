@@ -1,0 +1,31 @@
+{
+	"itemGroup.myst2": "Myst 2",
+	"itemGroup.myst2_blocks": "Blocks",
+	
+	"item.myst2.canner_mask": "Canner Mask",
+	"item.myst2.bozgab": "Bozgab",
+	"item.myst2.dogabo": "dogabo",
+	"item.myst2.coat": "coat",
+	"item.myst2.pants": "pants",
+	"item.myst2.boots": "boots",
+	
+	"item.myst2.pickaxe": "Dogabo Pickaxe",
+	"item.myst2.axe": "Dogabo Axe",
+	"item.myst2.spade": "Dogabo Shovel",
+	"item.myst2.sword": "Dogabo Sword",
+	"item.myst2.hoe": "Dogaboe Hoe",
+    
+	"block.myst2.him_block": "Him Block",
+	"block.myst2.bozgab_ore": "Bozgab Ore",
+	"block.myst2.root": "Root",
+	"block.myst2.bread": "Bread Leaf",
+	"block.myst2.dogthyst": "Dogabo Crystal",
+	"block.myst2.ggrass": "Nasty Grass",
+	"block.myst2.gdirt": "Nasty Dirt",
+	"block.myst2.gstone": "Nasty Stone",
+	
+	"block.myst2.rot_block": "Key Table",
+	"item.myst2.dbook": "Descriptive Book",
+	"item.myst2.lbooku": "Blank Linking Book",
+	"item.myst2.lbooka": "Linking Book"
+}

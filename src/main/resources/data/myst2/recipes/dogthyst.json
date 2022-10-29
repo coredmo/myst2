@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"###",
+		"###",
+		"###"
+	],
+	"key": {
+		"#": {
+			"tag": "myst2:dogabo"
+		}
+	},
+	"result": {
+		"item": "myst2:dogthyst"
+	}
+}

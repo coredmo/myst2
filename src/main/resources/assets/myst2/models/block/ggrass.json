@@ -1,0 +1,8 @@
+{
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"side": "myst2:block/ggrass",
+		"top": "myst2:block/ggrass2",
+		"bottom": "myst2:block/gdirt"
+	}
+}

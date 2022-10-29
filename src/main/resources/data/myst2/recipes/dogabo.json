@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "myst2:dogthyst"
+		}
+	],
+	"result": {
+		"item": "myst2:dogabo",
+		"count": 9
+	}
+}

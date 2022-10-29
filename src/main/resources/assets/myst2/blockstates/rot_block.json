@@ -1,0 +1,36 @@
+{
+	"variants": {
+		"facing=north,lit=true": {
+			"model": "myst2:block/rot_block",
+			"y": 90
+		},
+		"facing=east,lit=true": {
+			"model": "myst2:block/rot_block",
+			"y": 180
+		},
+		"facing=south,lit=true": {
+			"model": "myst2:block/rot_block",
+			"y": 270
+		},
+		"facing=west,lit=true": {
+			"model": "myst2:block/rot_block",
+			"y": 0
+		},
+		"facing=north,lit=false": {
+			"model": "myst2:block/rot_block",
+			"y": 90
+		},
+		"facing=east,lit=false": {
+			"model": "myst2:block/rot_block",
+			"y": 180
+		},
+		"facing=south,lit=false": {
+			"model": "myst2:block/rot_block",
+			"y": 270
+		},
+		"facing=west,lit=false": {
+			"model": "myst2:block/rot_block",
+			"y": 0
+		}
+	}
+}

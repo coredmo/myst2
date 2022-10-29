@@ -1,0 +1,43 @@
+
+modLoader="javafml" #mandatory
+
+loaderVersion="[40,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+
+license="All rights reserved"
+
+
+[[mods]] #mandatory
+
+modId="myst2" #mandatory
+
+version="1.0" #mandatory
+
+displayName="Myst 2" #mandatory
+
+
+logoFile="mystbeta.png" #optional
+
+credits="This goes out to all those people in the woooorld" #optional
+
+authors="goota be one of da people of the world" #optional
+
+description='''
+
+BADABAM MOTHAFUCKA HERE I AMMMMMM. This mod is made by canner
+
+Have some loremo ipsumba.
+'''
+
+[[dependencies.myst2]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[40,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.myst2]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"

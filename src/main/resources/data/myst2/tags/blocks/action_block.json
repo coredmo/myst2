@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"myst2:him_block",
+		"myst2:root",
+		"myst2:bread",
+		"myst2:gstone",
+		"myst2:rot_block"
+	]
+}
